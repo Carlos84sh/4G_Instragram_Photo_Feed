@@ -1,0 +1,50 @@
+body{
+    background-color:grey;
+    margin:0;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+header{
+    background-color:white;
+    margin-top:0px;
+    padding: 5px;
+}
+header h1{
+    display:;
+    background-color:;
+    text-align: center;
+    margin:0px;
+    
+}
+
+#box{
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 0px;
+}
+
+#content{
+    width:550px;
+    margin:auto;
+}
+
+#headerBox{
+    padding:5px;
+    background-color:;
+}
+#headerBox h2{
+    padding:10px;
+    display: inline;
+}
+#headerBox span{
+    padding:10px;
+    display: inline;
+    float: right;
+    
+}
+
+#footerBox p{
+    padding:10px;
+}
+
+
